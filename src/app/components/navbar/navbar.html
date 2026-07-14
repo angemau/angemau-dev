@@ -1,0 +1,12 @@
+<div class="lang-switch">
+  <button
+    [class.active]="lang.isActive('es')"
+    (click)="lang.setLang('es')">
+    ES
+  </button>
+  <button
+    [class.active]="lang.isActive('en')"
+    (click)="lang.setLang('en')">
+    EN
+  </button>
+</div>

@@ -1,0 +1,30 @@
+<section id="top" class="hero">
+  <div class="hero-text">
+    <span class="status">{{ 'hero.status' | translate }}</span>
+    <p class="eyebrow">{{ 'hero.eyebrow' | translate }}</p>
+    <h1>{{ 'hero.name' | translate }}</h1>
+    <p class="tagline">{{ 'hero.tagline' | translate }}</p>
+
+    <div class="cta-group">
+      <a href="#proyectos" class="btn-primary">{{ 'hero.ctaProjects' | translate }} →</a>
+      <a href="#contacto" class="btn-secondary">{{ 'hero.ctaContact' | translate }}</a>
+    </div>
+
+    <div class="tech-list">
+      @for (item of tech; track item) {
+        <span class="tech-badge">{{ item }}</span>
+      }
+    </div>
+  </div>
+
+  <div class="hero-image">
+  <div class="hero-image-frame">
+    <img src="/images/profile.png" alt="{{ 'hero.name' | translate }}">
+  </div>
+  <div class="badge-float">
+    <span>{{ badge }}</span>
+    <span>{{ 'hero.badgeSub' | translate }}</span>
+  </div>
+</div>
+</section>
+
