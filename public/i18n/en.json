@@ -1,7 +1,13 @@
 {
+  "nav": {
+    "about": "About me",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
   "hero": {
     "eyebrow": "Full-Stack Software Engineer",
-    "name": "Ángela María López Moya",
     "tagline": "8+ years building scalable software across enterprise, healthcare and government.",
     "status": "Available for new projects",
     "ctaProjects": "View projects",

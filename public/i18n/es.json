@@ -1,7 +1,13 @@
 {
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto"
+  },
   "hero": {
     "eyebrow": "Full-Stack Software Engineer",
-    "name": "Ángela María López Moya",
     "tagline": "Más de 8 años desarrollando soluciones escalables en entornos empresariales, de salud y gobierno.",
     "status": "Disponible para nuevos proyectos",
     "ctaProjects": "Ver proyectos",

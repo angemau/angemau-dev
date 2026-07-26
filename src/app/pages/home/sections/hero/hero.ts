@@ -9,6 +9,7 @@ import { TranslatePipe } from '@ngx-translate/core';
   styleUrl: './hero.css',
 })
 export class Hero {
-  tech = ['Angular', 'Java', 'C#', '.NET', 'TypeScript', 'AWS'];
+  fullName = 'Ángela María López Moya';
+  tech = ['Angular', 'Java', 'C#', '.NET', 'TypeScript', 'SQL Server'];
   badge = '8+';
 }

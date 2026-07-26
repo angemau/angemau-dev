@@ -1,4 +1,4 @@
-import { Component, inject } from '@angular/core';
+import { Component, inject, signal } from '@angular/core';
 import { TranslatePipe } from '@ngx-translate/core';
 import { LanguageService } from './../../core/i18n/language-service';
 
@@ -12,4 +12,14 @@ import { LanguageService } from './../../core/i18n/language-service';
 export class Navbar {
   lang = inject(LanguageService);
 
+  // signal: estado reactivo del menú móvil
+  menuOpen = signal(false);
+
+  toggleMenu() {
+    this.menuOpen.update((open) => !open);
+  }
+
+  closeMenu() {
+    this.menuOpen.set(false);
+  }
 }

@@ -2,7 +2,7 @@
   <div class="hero-text">
     <span class="status">{{ 'hero.status' | translate }}</span>
     <p class="eyebrow">{{ 'hero.eyebrow' | translate }}</p>
-    <h1>{{ 'hero.name' | translate }}</h1>
+    <h1>{{ fullName }}</h1>
     <p class="tagline">{{ 'hero.tagline' | translate }}</p>
 
     <div class="cta-group">
@@ -19,7 +19,7 @@
 
   <div class="hero-image">
   <div class="hero-image-frame">
-    <img src="/images/profile.png" alt="{{ 'hero.name' | translate }}">
+    <img src="/images/profile.png" [alt]="fullName">
   </div>
   <div class="badge-float">
     <span>{{ badge }}</span>
