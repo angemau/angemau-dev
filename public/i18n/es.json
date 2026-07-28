@@ -14,5 +14,9 @@
     "ctaContact": "Contacto",
     "techLabel": "Tecnologías principales",
     "badgeSub": "años de experiencia"
+  },
+  "footer": {
+    "role": "Full-Stack Software Engineer",
+    "backTop": "Volver arriba"
   }
 }
