@@ -18,5 +18,18 @@
   "footer": {
     "role": "Full-Stack Software Engineer",
     "backTop": "Volver arriba"
+  },
+  "about": {
+    "label": "Sobre mí",
+    "heading": "Del diseño a producción: construyo software que escala.",
+    "body": "Soy Ingeniera de Sistemas con más de 8 años de experiencia construyendo software para los sectores salud, gobierno y empresarial. Trabajo principalmente con Angular, Java (Spring Boot) y C# (.NET), y tengo experiencia sólida en bases de datos como SQL Server y Oracle, incluyendo optimización de consultas y procedimientos almacenados. Antes lideré equipos como Scrum Master, y disfruto tanto escribir código limpio como acompañar a un equipo a entregar valor de forma continua. Actualmente desarrollo proyectos freelance de forma independiente, gestionando todo el ciclo de vida del producto, desde el diseño hasta el despliegue.",
+    "cv": "Descargar CV",
+    "cardTitle": "Datos clave",
+    "f1k": "Ubicación",
+    "f1v": "Colombia · Remoto",
+    "f2k": "Idiomas",
+    "f2v": "Español · Inglés",
+    "f3k": "Enfoque",
+    "f3v": "Full-Stack + Scrum Master"
   }
 }

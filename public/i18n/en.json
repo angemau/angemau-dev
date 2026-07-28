@@ -18,5 +18,18 @@
   "footer": {
     "role": "Full-Stack Software Engineer",
     "backTop": "Back to top"
+  },
+  "about": {
+    "label": "About",
+    "heading": "From design to production: I build software that scales.",
+    "body": "I'm a Systems Engineer with 8+ years of experience building software for the healthcare, government, and enterprise sectors. I mainly work with Angular, Java (Spring Boot), and C# (.NET), with solid experience in databases like SQL Server and Oracle, including query optimization and stored procedures. I previously led teams as a Scrum Master, and I enjoy both writing clean code and helping a team deliver value continuously.\n\nI currently work independently on freelance projects, managing the full product lifecycle from design to deployment.",
+    "cv": "Download CV",
+    "cardTitle": "Key facts",
+    "f1k": "Location",
+    "f1v": "Colombia · Remote",
+    "f2k": "Languages",
+    "f2v": "Spanish · English",
+    "f3k": "Focus",
+    "f3v": "Full-Stack + Scrum Master"
   }
 }
