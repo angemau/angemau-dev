@@ -31,5 +31,26 @@
     "f2v": "Spanish · English",
     "f3k": "Focus",
     "f3v": "Full-Stack + Scrum Master"
+  },
+  "skills": {
+    "label": "Technical skills",
+    "heading": "The stack I work with.",
+    "c1t": "Frontend",
+    "c1d": "Fast, maintainable interfaces",
+    "c2t": "Backend",
+    "c2d": "Robust services and APIs",
+    "c3t": "Cloud / Other",
+    "c3d": "Infrastructure and data"
+  },
+  "projects": {
+    "label": "Projects",
+    "heading": "Selected work.",
+    "liveLabel": "Live",
+    "p1name": "GatoBlanco",
+    "p1desc": "Website for the band GatoBlanco: site design and development, deployment with a .music domain, email setup, integration with streaming platforms and social media, and SEO optimization. Worked closely with the band's frontman.",
+    "cta": "Visit site",
+    "soonLabel": "Coming soon",
+    "p2name": "Next project",
+    "p2desc": "New work on the way. Check back soon."
   }
 }

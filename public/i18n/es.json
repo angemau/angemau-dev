@@ -31,5 +31,26 @@
     "f2v": "Español · Inglés",
     "f3k": "Enfoque",
     "f3v": "Full-Stack + Scrum Master"
+  },
+  "skills": {
+    "label": "Habilidades técnicas",
+    "heading": "El stack con el que trabajo.",
+    "c1t": "Frontend",
+    "c1d": "Interfaces rápidas y mantenibles",
+    "c2t": "Backend",
+    "c2d": "Servicios robustos y APIs",
+    "c3t": "Cloud / Otros",
+    "c3d": "Infraestructura y datos"
+  },
+  "projects": {
+    "label": "Proyectos",
+    "heading": "Proyectos realizados.",
+    "liveLabel": "En línea",
+    "p1name": "GatoBlanco",
+    "p1desc": "Sitio web para la banda GatoBlanco: diseño y desarrollo del sitio, despliegue con dominio .music, configuración de correo, integración con plataformas de streaming y redes sociales, y optimización SEO. Trabajo en conjunto con el líder de la banda.",
+    "cta": "Visitar sitio",
+    "soonLabel": "Próximamente",
+    "p2name": "Próximo proyecto",
+    "p2desc": "Nuevos trabajos en camino. Vuelve pronto."
   }
 }
