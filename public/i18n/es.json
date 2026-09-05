@@ -46,11 +46,30 @@
     "label": "Proyectos",
     "heading": "Proyectos realizados.",
     "liveLabel": "En línea",
-    "p1name": "GatoBlanco",
-    "p1desc": "Sitio web para la banda GatoBlanco: diseño y desarrollo del sitio, despliegue con dominio .music, configuración de correo, integración con plataformas de streaming y redes sociales, y optimización SEO. Trabajo en conjunto con el líder de la banda.",
+    "p1name": "Gatoblanco",
+    "p1desc": "Sitio web para la banda Gatoblanco: diseño y desarrollo del sitio, despliegue con dominio .music, configuración de correo, integración con plataformas de streaming y redes sociales, y optimización SEO. Trabajo en conjunto con el líder de la banda.",
     "cta": "Visitar sitio",
     "soonLabel": "Próximamente",
     "p2name": "Próximo proyecto",
     "p2desc": "Nuevos trabajos en camino. Vuelve pronto."
+  },
+  "experience": {
+    "label": "Experiencia",
+    "heading": "Trayectoria.",
+    "e1role": "Full-Stack Developer · Scrum Master",
+    "e1p1": "Software médico para +3.000 usuarios en EE. UU.",
+    "e1p2": "Mejoras de rendimiento superiores al 30 %.",
+    "e2role": "Full-Stack Developer",
+    "e2p1": "Software electoral para la Registraduría Nacional de Colombia.",
+    "e3role": "Backend Developer",
+    "e3p1": "Migración de componentes legacy PL/SQL a Java.",
+    "e3p2": "Integraciones con Apache Camel, AWS y ActiveMQ."
+  },
+  "contact": {
+    "label": "Contacto",
+    "heading": "Trabajemos juntos.",
+    "body": "¿Tienes un proyecto o una vacante en mente? Escríbeme y conversemos.",
+    "emailLabel": "Correo",
+    "cta": "Enviar correo"
   }
 }

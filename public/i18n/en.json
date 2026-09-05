@@ -46,11 +46,30 @@
     "label": "Projects",
     "heading": "Selected work.",
     "liveLabel": "Live",
-    "p1name": "GatoBlanco",
-    "p1desc": "Website for the band GatoBlanco: site design and development, deployment with a .music domain, email setup, integration with streaming platforms and social media, and SEO optimization. Worked closely with the band's frontman.",
+    "p1name": "Gatoblanco",
+    "p1desc": "Website for the band Gatoblanco: site design and development, deployment with a .music domain, email setup, integration with streaming platforms and social media, and SEO optimization. Worked closely with the band's frontman.",
     "cta": "Visit site",
     "soonLabel": "Coming soon",
     "p2name": "Next project",
     "p2desc": "New work on the way. Check back soon."
+  },
+  "experience": {
+    "label": "Experience",
+    "heading": "Career path.",
+    "e1role": "Full-Stack Developer · Scrum Master",
+    "e1p1": "Medical software serving 3,000+ users in the US.",
+    "e1p2": "Performance improvements of over 30%.",
+    "e2role": "Full-Stack Developer",
+    "e2p1": "Electoral software for Colombia's National Registry.",
+    "e3role": "Backend Developer",
+    "e3p1": "Migration of legacy PL/SQL components to Java.",
+    "e3p2": "Integrations with Apache Camel, AWS, and ActiveMQ."
+  },
+  "contact": {
+    "label": "Contact",
+    "heading": "Let's work together.",
+    "body": "Have a project or an opportunity in mind? Send me a message and let's talk.",
+    "emailLabel": "Email",
+    "cta": "Send email"
   }
 }
