@@ -1,0 +1,41 @@
+<nav>
+  <div class="nav-inner">
+    <a href="#top" class="logo" (click)="closeMenu()">
+      <span class="dot"></span>
+      <span>angemau<span class="sub">.dev</span></span>
+    </a>
+
+    <div class="nav-right">
+      <div class="nav-links" [class.open]="menuOpen()">
+        <a href="#sobre-mi" (click)="closeMenu()">{{ 'nav.about' | translate }}</a>
+        <a href="#habilidades" (click)="closeMenu()">{{ 'nav.skills' | translate }}</a>
+        <a href="#proyectos" (click)="closeMenu()">{{ 'nav.projects' | translate }}</a>
+        <a href="#experiencia" (click)="closeMenu()">{{ 'nav.experience' | translate }}</a>
+      </div>
+
+      <div class="lang-switch">
+        <button
+          [class.active]="lang.isActive('es')"
+          (click)="lang.setLang('es')">
+          ES
+        </button>
+        <button
+          [class.active]="lang.isActive('en')"
+          (click)="lang.setLang('en')">
+          EN
+        </button>
+      </div>
+
+      <a href="#contacto" class="nav-cta" (click)="closeMenu()">{{ 'nav.contact' | translate }}</a>
+
+      <button
+        class="hamburger"
+        type="button"
+        aria-label="Menu"
+        [attr.aria-expanded]="menuOpen()"
+        (click)="toggleMenu()">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "About me",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Software Engineer",
+    "tagline": "8+ years building scalable software across enterprise, healthcare and government.",
+    "status": "Available for new projects",
+    "ctaProjects": "View projects",
+    "ctaContact": "Contact",
+    "techLabel": "Core technologies",
+    "badgeSub": "years of experience"
+  },
+  "footer": {
+    "role": "Full-Stack Software Engineer",
+    "backTop": "Back to top"
+  },
+  "about": {
+    "label": "About",
+    "heading": "From design to production: I build software that scales.",
+    "body": "I'm a Systems Engineer with 8+ years of experience building software for the healthcare, government, and enterprise sectors. I mainly work with Angular, Java (Spring Boot), and C# (.NET), with solid experience in databases like SQL Server and Oracle, including query optimization and stored procedures. I previously led teams as a Scrum Master, and I enjoy both writing clean code and helping a team deliver value continuously.\n\nI currently work independently on freelance projects, managing the full product lifecycle from design to deployment.",
+    "cv": "Download CV",
+    "cardTitle": "Key facts",
+    "f1k": "Location",
+    "f1v": "Colombia · Remote",
+    "f2k": "Languages",
+    "f2v": "Spanish · English",
+    "f3k": "Focus",
+    "f3v": "Full-Stack + Scrum Master"
+  },
+  "skills": {
+    "label": "Technical skills",
+    "heading": "The stack I work with.",
+    "c1t": "Frontend",
+    "c1d": "Fast, maintainable interfaces",
+    "c2t": "Backend",
+    "c2d": "Robust services and APIs",
+    "c3t": "Cloud / Other",
+    "c3d": "Infrastructure and data"
+  },
+  "projects": {
+    "label": "Projects",
+    "heading": "Selected work.",
+    "liveLabel": "Live",
+    "p1name": "Gatoblanco",
+    "p1desc": "Website for the band Gatoblanco: site design and development, deployment with a .music domain, email setup, integration with streaming platforms and social media, and SEO optimization. Worked closely with the band's frontman.",
+    "cta": "Visit site",
+    "soonLabel": "Coming soon",
+    "p2name": "Next project",
+    "p2desc": "New work on the way. Check back soon."
+  },
+  "experience": {
+    "label": "Experience",
+    "heading": "Career path.",
+    "e1role": "Full-Stack Developer · Scrum Master",
+    "e1p1": "Medical software serving 3,000+ users in the US.",
+    "e1p2": "Performance improvements of over 30%.",
+    "e2role": "Full-Stack Developer",
+    "e2p1": "Electoral software for Colombia's National Registry.",
+    "e3role": "Backend Developer",
+    "e3p1": "Migration of legacy PL/SQL components to Java.",
+    "e3p2": "Integrations with Apache Camel, AWS, and ActiveMQ."
+  },
+  "contact": {
+    "label": "Contact",
+    "heading": "Let's work together.",
+    "body": "Have a project or an opportunity in mind? Send me a message and let's talk.",
+    "emailLabel": "Email",
+    "cta": "Send email"
+  }
+}
