@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Software Engineer",
+    "tagline": "Más de 8 años desarrollando soluciones escalables en entornos empresariales, de salud y gobierno.",
+    "status": "Disponible para nuevos proyectos",
+    "ctaProjects": "Ver proyectos",
+    "ctaContact": "Contacto",
+    "techLabel": "Tecnologías principales",
+    "badgeSub": "años de experiencia"
+  },
+  "footer": {
+    "role": "Full-Stack Software Engineer",
+    "backTop": "Volver arriba"
+  },
+  "about": {
+    "label": "Sobre mí",
+    "heading": "Del diseño a producción: construyo software que escala.",
+    "body": "Soy Ingeniera de Sistemas con más de 8 años de experiencia construyendo software para los sectores salud, gobierno y empresarial. Trabajo principalmente con Angular, Java (Spring Boot) y C# (.NET), y tengo experiencia sólida en bases de datos como SQL Server y Oracle, incluyendo optimización de consultas y procedimientos almacenados. Antes lideré equipos como Scrum Master, y disfruto tanto escribir código limpio como acompañar a un equipo a entregar valor de forma continua. Actualmente desarrollo proyectos freelance de forma independiente, gestionando todo el ciclo de vida del producto, desde el diseño hasta el despliegue.",
+    "cv": "Descargar CV",
+    "cardTitle": "Datos clave",
+    "f1k": "Ubicación",
+    "f1v": "Colombia · Remoto",
+    "f2k": "Idiomas",
+    "f2v": "Español · Inglés",
+    "f3k": "Enfoque",
+    "f3v": "Full-Stack + Scrum Master"
+  },
+  "skills": {
+    "label": "Habilidades técnicas",
+    "heading": "El stack con el que trabajo.",
+    "c1t": "Frontend",
+    "c1d": "Interfaces rápidas y mantenibles",
+    "c2t": "Backend",
+    "c2d": "Servicios robustos y APIs",
+    "c3t": "Cloud / Otros",
+    "c3d": "Infraestructura y datos"
+  },
+  "projects": {
+    "label": "Proyectos",
+    "heading": "Proyectos realizados.",
+    "liveLabel": "En línea",
+    "p1name": "Gatoblanco",
+    "p1desc": "Sitio web para la banda Gatoblanco: diseño y desarrollo del sitio, despliegue con dominio .music, configuración de correo, integración con plataformas de streaming y redes sociales, y optimización SEO. Trabajo en conjunto con el líder de la banda.",
+    "cta": "Visitar sitio",
+    "soonLabel": "Próximamente",
+    "p2name": "Próximo proyecto",
+    "p2desc": "Nuevos trabajos en camino. Vuelve pronto."
+  },
+  "experience": {
+    "label": "Experiencia",
+    "heading": "Trayectoria.",
+    "e1role": "Full-Stack Developer · Scrum Master",
+    "e1p1": "Software médico para +3.000 usuarios en EE. UU.",
+    "e1p2": "Mejoras de rendimiento superiores al 30 %.",
+    "e2role": "Full-Stack Developer",
+    "e2p1": "Software electoral para la Registraduría Nacional de Colombia.",
+    "e3role": "Backend Developer",
+    "e3p1": "Migración de componentes legacy PL/SQL a Java.",
+    "e3p2": "Integraciones con Apache Camel, AWS y ActiveMQ."
+  },
+  "contact": {
+    "label": "Contacto",
+    "heading": "Trabajemos juntos.",
+    "body": "¿Tienes un proyecto o una vacante en mente? Escríbeme y conversemos.",
+    "emailLabel": "Correo",
+    "cta": "Enviar correo"
+  }
+}

@@ -1,0 +1,44 @@
+<section id="proyectos" class="projects">
+  <div class="sec-pad">
+    <div data-reveal>
+      <div class="sec-eyebrow">
+        <span class="num">{{ sectionNumber }}</span><span class="rule"></span>
+        <span class="label">{{ 'projects.label' | translate }}</span>
+      </div>
+      <h2>{{ 'projects.heading' | translate }}</h2>
+    </div>
+
+    <div class="proj-grid">
+      <div class="proj-card" data-reveal>
+        <a [href]="p1Url" target="_blank" rel="noopener" class="proj-media">
+          <span class="live-tag">
+            <span class="dot"></span><span>{{ 'projects.liveLabel' | translate }}</span>
+          </span>
+          <span class="play">▶</span>
+          <span class="name">GatoBlanco</span>
+          <span class="url">gatoblanco.music</span>
+        </a>
+        <div class="proj-body">
+          <h3>{{ 'projects.p1name' | translate }}</h3>
+          <p>{{ 'projects.p1desc' | translate }}</p>
+          <div class="proj-stack">
+            @for (tag of p1Stack; track tag) {
+              <span>{{ tag }}</span>
+            }
+          </div>
+          <a [href]="p1Url" target="_blank" rel="noopener" class="proj-link">
+            <span>{{ 'projects.cta' | translate }}</span><span style="font-size:15px">→</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="proj-card" data-reveal>
+        <div class="proj-soon"><span>{{ 'projects.soonLabel' | translate }}</span></div>
+        <div class="proj-body">
+          <h3>{{ 'projects.p2name' | translate }}</h3>
+          <p>{{ 'projects.p2desc' | translate }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

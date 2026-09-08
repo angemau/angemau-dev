@@ -1,0 +1,31 @@
+<section id="contacto" class="contact">
+  <div class="sec-pad">
+    <div data-reveal>
+      <div class="sec-eyebrow">
+        <span class="num">{{ sectionNumber }}</span><span class="rule"></span>
+        <span class="label">{{ 'contact.label' | translate }}</span>
+      </div>
+      <h2 class="contact-h">{{ 'contact.heading' | translate }}</h2>
+      <p class="contact-body">{{ 'contact.body' | translate }}</p>
+    </div>
+
+    <div class="contact-box" data-reveal>
+      <div class="email-content">
+        <p class="email-label">{{ 'contact.emailLabel' | translate }}</p>
+        <a [href]="'mailto:' + email" class="email-link">{{ email }}</a>
+      </div>
+      <a [href]="'mailto:' + email" class="btn-primary">
+        <span>{{ 'contact.cta' | translate }}</span><span aria-hidden="true">→</span>
+      </a>
+    </div>
+
+    <div class="social-grid" data-reveal>
+      <a [href]="linkedInUrl" target="_blank" rel="noopener" class="social-link">
+        <span class="k">LinkedIn</span><span class="arrow" aria-hidden="true">↗</span>
+      </a>
+      <a [href]="githubUrl" target="_blank" rel="noopener" class="social-link">
+        <span class="k">GitHub</span><span class="arrow" aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </div>
+</section>
